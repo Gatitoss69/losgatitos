@@ -6,4 +6,8 @@ p{
 	text-decoration: none;
 	color: #FF0000;
 }
+img {
+	width: 320px;
+	height: 380px;
+}
 
